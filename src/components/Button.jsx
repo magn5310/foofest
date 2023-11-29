@@ -1,5 +1,6 @@
+import "../styles/Button.css";
 function Button() {
-  return <div></div>;
+  return <button>View all</button>;
 }
 
 export default Button;
